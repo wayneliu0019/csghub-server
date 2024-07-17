@@ -32,4 +32,4 @@ jobs:
         context: .
         file: ./docker/Dockerfile
         push: true
-        tags: wayne0019/githubng:${{ env.TAG }}
+        tags: wayne0019/csghub-server:${{ env.TAG }}
